@@ -1,4 +1,4 @@
 # apnacollege-demo
 git repository
 <br>
-Author - Anil Kumar
+Author - Anil Kumar Palaketi
